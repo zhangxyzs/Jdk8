@@ -5,39 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b689be0-6b27-48f5-b3ae-a6e0edd34ade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/BuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/DancerBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Ibuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Robbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/BuZhangHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChuZhangHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/JuZhangHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/LevelEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/observe/BeijingWeather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/observe/Observed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/observe/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/observe/TianjinWeather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/observe/WeatherContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/observe/WeatherObserved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/single/SingleInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/single/SingleInstance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/single/SingleInstance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/ForeignerPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/IStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/LocalPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/AbstractTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/BmwCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/HafuCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/TemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/juc/map/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhangxy/TreeMapComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhangxy/TreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/PageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/PageGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/RequirementCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/RequirementGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/StrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/设计模式.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/设计模式.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/设计模式之禅.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/设计模式之禅.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,110 +48,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/BuZhangHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/JuZhangHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeCommand.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Robbit.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Invoker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="188">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Ibuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CommandTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Director.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/IStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/BuilderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            <state relative-caret-position="264">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/DancerBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/StrategyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-              <folding>
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChuZhangHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/ForeignerPerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="21" selection-start-line="9" selection-end-line="10" />
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChainTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/TemplateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="264">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/AbstractHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/AbstractTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/LocalPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -207,18 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/Sort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/AbstractSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/algorithm/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/stream/OptionalApi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/juc/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/juc/map/Person.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/zhangxy/TreeMapComparator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zhangxy/TreeMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/juc/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designmode/SingleInstance1.java" />
@@ -258,6 +216,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Director.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/BuilderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/DancerBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/RequirementGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/PageGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/RequirementCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/PageCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Invoker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/StrategyTest.java" />
       </list>
     </option>
   </component>
@@ -339,7 +309,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zhangxy" type="462c0819:PsiDirectoryNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jdk8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jdk8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jdk8" type="b2602c69:ProjectViewProjectNode" />
@@ -372,7 +352,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571306097763" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571367659294" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="D:/study/java/projects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -384,10 +364,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\projects\Jdk8\src\main\java\com\zhangxy\designpattern" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zhangxy.designmode" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\projects\Jdk8\src\main\java\com\zhangxy\designpattern\builder" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhangxy.designpattern.command" />
       <recent name="com.zhangxy.designmode.chain" />
       <recent name="com.zhangxy.designmode.template" />
       <recent name="com.zhangxy.designmode.observe" />
@@ -409,7 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuilderTest">
+  <component name="RunManager" selected="Application.StrategyTest">
     <configuration name="BuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhangxy.designpattern.builder.BuilderTest" />
       <module name="Jdk8" />
@@ -436,6 +423,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CommandTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangxy.designpattern.command.CommandTest" />
+      <module name="Jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangxy.designpattern.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangxy.designpattern.strategy.StrategyTest" />
+      <module name="Jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangxy.designpattern.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TemplateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhangxy.designpattern.template.TemplateTest" />
       <module name="Jdk8" />
@@ -449,42 +462,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhangxy.designpattern.observe.WeatherContext" />
-      <module name="Jdk8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhangxy.designpattern.observe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapTest.TreeMapComparator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Jdk8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhangxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zhangxy" />
-      <option name="MAIN_CLASS_NAME" value="com.zhangxy.TreeMapTest" />
-      <option name="METHOD_NAME" value="TreeMapComparator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrategyTest" />
+        <item itemvalue="Application.CommandTest" />
         <item itemvalue="Application.BuilderTest" />
         <item itemvalue="Application.ChainTest" />
         <item itemvalue="Application.TemplateTest" />
-        <item itemvalue="Application.WeatherContext" />
-        <item itemvalue="JUnit.TreeMapTest.TreeMapComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +487,7 @@
       <workItem from="1571023546262" duration="17109000" />
       <workItem from="1571106593407" duration="14890000" />
       <workItem from="1571195391456" duration="6626000" />
-      <workItem from="1571279807908" duration="14294000" />
+      <workItem from="1571279807908" duration="17454000" />
     </task>
     <task id="LOCAL-00001" summary="添加测试">
       <created>1571133866625</created>
@@ -512,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571133866625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加测试">
+      <created>1571306774764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571306774764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -548,13 +539,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71806000" />
+    <option name="totallyTimeSpent" value="74966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19235925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,12 +554,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23900293" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22434017" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28005865" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31231672" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.26207906" />
@@ -627,18 +618,6 @@
     <MESSAGE value="添加测试" />
     <option name="LAST_COMMIT_MESSAGE" value="添加测试" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/AbstractHandler.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
@@ -649,126 +628,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/stream/OptionalApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14960">
-          <caret line="720" column="51" selection-start-line="720" selection-start-column="51" selection-end-line="720" selection-end-column="51" />
-          <folding>
-            <element signature="e#19667#19668#0" expanded="true" />
-            <element signature="e#19695#19696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2552">
-          <caret line="148" column="66" selection-start-line="148" selection-start-column="66" selection-end-line="148" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#91327#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#24329#24330#0" expanded="true" />
-            <element signature="e#24394#24395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="98" column="23" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#54478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="108" column="27" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhangxy/stream/StreamApiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhangxy/TreeMapComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#13335#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../dev/jdk1.8.0_151/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1106" column="7" lean-forward="true" selection-start-line="1106" selection-start-column="7" selection-end-line="1106" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#108850#0" expanded="true" />
-            <element signature="e#5767#5768#0" expanded="true" />
-            <element signature="e#5800#5801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/juc/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/stream/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -909,30 +768,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/AbstractTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/HafuCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/TemplateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -951,35 +790,6 @@
             <element signature="e#381#382#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
             <element signature="e#432#433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/IStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/LocalPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/ForeignerPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1042,19 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/AbstractHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChuZhangHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1069,13 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/JuZhangHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1086,48 +876,204 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Robbit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Ibuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/Director.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/BuilderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/builder/DancerBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="255">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#250#251#0" expanded="true" />
             <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
             <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
             <element signature="e#619#620#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/chain/ChainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/RequirementGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/PageGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/RequirementCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/PageCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CodeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/command/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/LocalPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/ForeignerPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/TemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/template/AbstractTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/IStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangxy/designpattern/strategy/StrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
